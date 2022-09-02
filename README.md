@@ -1,7 +1,4 @@
 
-
-<br />
-
 ## ⚡ About Me
 
 Graduated in Architecture and Urbanism and changed path to technology. Graduated at Trybe in Web Development. Passionate professional with some experience in devOps/SRE and Software Engineering.
