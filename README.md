@@ -20,4 +20,9 @@ Graduated in Architecture and Urbanism and changed path to technology. Graduated
 
 ## 📫 How to reach me
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariaaliceguimaraescarneiro//?locale=en_US)
+<br />
+<br />
+
+![MariaAliceGuimaraes](https://komarev.com/ghpvc/?username=MariaAliceGuimaraes)
+
 
