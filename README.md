@@ -1,7 +1,7 @@
 
 ## ⚡ About Me
 
-Graduated in Architecture and Urbanism and changed path to technology. Graduated at Trybe in Web Development. Passionate professional with some experience in devOps/SRE and Software Engineering. Here are some of the skills I learned and am <ins>**still learning**</ins>.
+Graduated in Architecture and Urbanism and changed path to technology. Graduated at Trybe in Web Development ([here](https://github.com/MariaAliceGuimaraes/TrybeProjects) you can check out some of my trybe projects). Passionate professional with some experience in devOps/SRE and Software Engineering. Here are some of the skills I learned and am <ins>**still learning**</ins>.
 
 <br />
 <p align="center">
