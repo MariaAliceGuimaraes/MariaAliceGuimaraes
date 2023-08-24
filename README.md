@@ -10,13 +10,6 @@ Graduated in Architecture and Urbanism and changed path to technology. Graduated
   </a>
 </p>
 
-## 🌱 My stats
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaAliceGuimaraes&show_icons=true&theme=github_dark&hide_border=true" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAliceGuimaraes&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-<br />
-
 
 ## 📫 How to reach me
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariaaliceguimaraescarneiro//?locale=en_US)
